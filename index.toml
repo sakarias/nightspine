@@ -1,6 +1,74 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/Veinminer/blocks.json"
+hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "0e1dcb3a5f27c403c2fe39fae26d8be8439be57f6cae79f754fa04cf1dd91ee7"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "225d9f428ef4df5ce8e4072235f361a6badd6ad259d936a0f2a26dac8366b12d"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "9bcaee4d75a1e215885170017d2571e684a176f0a0093e657fc236ef4994cb01"
+
+[[files]]
+file = "config/enhancedgroups/persistent-groups.json"
+hash = "d88c06e61004fb10a7bc20ee8d4f7f2a943fa67c44daa8829eef2caf98e9764e"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "76aa2fb300513b5e5ce592c606da18a59ad07cc7d98b9a7cd3abc420fdddce13"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "2bf5a5bdbeefe6ff9885a0bbc9e2f3ba28b1ecc0e4b0e06e598a5d4d65bb267e"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "7aa4761cc751f6df10d32f053a009953fabfb6649670b253199dd6bbd7aa3f9d"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "0e7fde302ae1f9cbe3c507b8f4bc23ebc51acae005de2c4f69933893d037894a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "068fc165435c8734b43d5f735cfbe42d015356d157222d577012e45b3bf0a989"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "4da83b91a76fd1d8f00525a018603ddea7e99f9b0a0829c551ed59b38162ea5d"
 metafile = true
