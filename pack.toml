@@ -1,0 +1,13 @@
+name = "Nightspine"
+author = "Sakarias"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc79218154542ddda1c2e064aa7edfe682f6dade0e3a38e35bbe0cc1ea41e799"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "26.1.2"

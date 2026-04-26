@@ -1,0 +1,196 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "4da83b91a76fd1d8f00525a018603ddea7e99f9b0a0829c551ed59b38162ea5d"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "c8af456eca8937d460efd4fc72934ff0f0d2d042ab73880258f63bda4104e16f"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "8e6033c2642308835d119a073fdf24306394cdb6985c482a08e67b8087f6e90d"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "74319ca347167cb3db382349474b4c9d1889fb5894ddb723bd252e5b195d8558"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "56ab33230daa33839c1aca1c6c71ffdda1e4794ebcbcb2bc15fcd51a6a44df99"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "9935e957dfa8da9e0a7744394ed453947a59d608a1c7e937db675fa761a2ea49"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "9fa6ca1afa5b6b06ed5ac6706dc544206a57792d1fbaa3dddec59ea77d99b418"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a357b9e8dce82cf814ad55fd96326e3bf4480e804366c1938fa9c5542b112e92"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "6b306404c910f6910bb704132f724f62bb78594e281755b8d3125fe14bce349b"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "02828b2aa206fef8d3ab65097624e14712878bed28eff738e4c9a6f311ac5d91"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "b7efff6c165f411865a05d0420ffc33157a8b12078a4f00a20d6131c0e531a56"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "f58cc54721026966ec80c4849639ec73bd64d9b8600bd3390d95717a57e60635"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4f0b968b06bd349210ffefa44a236a73383206cdcd97b8942f02abdcab260a19"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "ccf85a22cdd9f965cc6aa8dd97c5f5aac4d5b42427888a852af5874f8a345d87"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "dc12b3aba319df85cefde7e6fb0e89e59399fa304a2bbfacf812fb240c06380b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "94768827963a3c80fffa06fbbf9d1c2cbae436c1ef83074d01221f1259f7cf55"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "a558d3ea920a8ca05dee8f0c2fd08e02ba850c9c9c9062f3c2090b68a0c49d3a"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "e522aad0eb90e59b654a80056f6a5b4609602e2266d307b028930a2ec1703954"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "04185c12844c8da7eb28121a0a6f43ad077751de120eca5fa2a2ab93b8e7a2d3"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "b112f576a895bd57db32a9a3b3bfccc8d8a435a96bb5e6276bbefcb8d1d84129"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fbe51395401ce68d9933a65fbcb4ed8cda82ac88d4afd79a5740116114d15949"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "c56611400afb8baac4ee0a12d0b80fbee77c581c39c48c9835aaa0200e14423f"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "64c0337aed7a425b5c1a9e31ec78a350bf578c69b47b15b5d1070ebd3bb6860a"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "a9c56a2ddf2bb31b40a999aa954e4b544cac0554ca48528998b10698d5fb2862"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "96c75aa9280fb3704a4c729b1b1a03d0660af2848455db627e3bdf84170f3f25"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "820ee81e8c986e9a8a48e238ae457398f35e0a67f4519b1b7a264bceff6fa723"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "0ef19a4a5dff28c78b2cf4f3d019623e0059726fd8b5bc67b6a2232163137042"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "03b368dcdb3b72777b9d47f949c8e4855e8c3a03b38aefc96a0ade06d2baaf65"
+metafile = true
