@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Open Chat",
+    "type": "OPEN",
+    "hidden": false,
+    "id": "29c41389-4cdd-41fa-aa8f-f19a15a3f9cd"
+  },
+  {
+    "name": "Isolated Chat",
+    "type": "ISOLATED",
+    "hidden": false,
+    "id": "0ee9a42b-456f-478e-b66d-69a5554738f0"
+  }
+]

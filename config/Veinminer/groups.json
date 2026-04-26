@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Ores",
+    "blocks": [
+      "minecraft:coal_ore",
+      "minecraft:deepslate_coal_ore",
+      "minecraft:copper_ore",
+      "minecraft:deepslate_copper_ore",
+      "minecraft:diamond_ore",
+      "minecraft:deepslate_diamond_ore",
+      "minecraft:emerald_ore",
+      "minecraft:deepslate_emerald_ore",
+      "minecraft:gold_ore",
+      "minecraft:deepslate_gold_ore",
+      "minecraft:iron_ore",
+      "minecraft:deepslate_iron_ore",
+      "minecraft:lapis_ore",
+      "minecraft:deepslate_lapis_ore",
+      "minecraft:redstone_ore",
+      "minecraft:deepslate_redstone_ore",
+      "minecraft:nether_gold_ore",
+      "minecraft:nether_quartz_ore",
+      "minecraft:glowstone"
+    ],
+    "tools": [
+      "minecraft:wooden_pickaxe",
+      "minecraft:stone_pickaxe",
+      "minecraft:golden_pickaxe",
+      "minecraft:iron_pickaxe",
+      "minecraft:diamond_pickaxe",
+      "minecraft:netherite_pickaxe",
+      "minecraft:copper_pickaxe"
+    ]
+  },
+  {
+    "name": "Wood",
+    "blocks": [
+      "minecraft:oak_log",
+      "minecraft:spruce_log",
+      "minecraft:birch_log",
+      "minecraft:jungle_log",
+      "minecraft:acacia_log",
+      "minecraft:dark_oak_log",
+      "minecraft:mangrove_log",
+      "minecraft:cherry_log",
+      "minecraft:pale_oak_log",
+      "minecraft:crimson_stem",
+      "minecraft:warped_stem",
+      "minecraft:brown_mushroom",
+      "minecraft:brown_mushroom_block",
+      "minecraft:mushroom_stem"
+    ],
+    "tools": [
+      "minecraft:wooden_axe",
+      "minecraft:stone_axe",
+      "minecraft:golden_axe",
+      "minecraft:iron_axe",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_axe",
+      "minecraft:copper_axe"
+    ]
+  },
+  {
+    "name": "Gravel",
+    "blocks": [
+      "minecraft:gravel",
+      "minecraft:clay",
+      "minecraft:sand"
+    ],
+    "tools": [
+      "minecraft:wooden_shovel",
+      "minecraft:stone_shovel",
+      "minecraft:netherite_shovel",
+      "minecraft:iron_shovel",
+      "minecraft:golden_shovel",
+      "minecraft:diamond_shovel",
+      "minecraft:copper_shovel"
+    ]
+  },
+  {
+    "name": "Leaf",
+    "blocks": [
+      "minecraft:pale_oak_leaves"
+    ],
+    "tools": [
+      "minecraft:shears"
+    ]
+  }
+]
